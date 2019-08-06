@@ -34,7 +34,7 @@ var intervals = [];
 var gencodeing = null;
 var nowadding = null;
 var nowdeleting = null;
- 
+  
 // Other Functions 
 function removeDelay(message)
 {
